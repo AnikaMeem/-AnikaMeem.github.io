@@ -10,6 +10,7 @@ body {
     display: flex;
     font-family: Arial, sans-serif;
     color: #333;
+    /* background: linear-gradient(to right, #a18cd1, #fbc2eb);*/
     background: linear-gradient(to right, #00c9a7, #92fe9d);
 }
 
